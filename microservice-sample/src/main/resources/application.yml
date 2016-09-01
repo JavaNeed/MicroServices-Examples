@@ -1,0 +1,6 @@
+management:
+    contextPath:    /manage
+spring:
+    jpa:
+        hibernate:
+            ddl-auto:   create
